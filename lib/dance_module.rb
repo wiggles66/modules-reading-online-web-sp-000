@@ -4,6 +4,10 @@ module FancyDance
       extend FancyDance::ClassMethods
       include FancyDance::InstanceMethods
     end
+    class Kid
+  extend FancyDance::ClassMethods
+  include FancyDance::InstanceMethods
+end
     def twirl
       "I'm twirling!"
     end

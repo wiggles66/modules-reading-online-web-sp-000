@@ -15,3 +15,4 @@ module Dance
             "Thank you, thank you. It was a pleasure to dance for you all"
           end
         end
+end

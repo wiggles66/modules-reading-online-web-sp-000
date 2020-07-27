@@ -1,6 +1,7 @@
 module FancyDance
   module InstanceMethods
-
+    extend FancyDance::ClassMethods
+    include FancyDance::InstanceMethods
     def twirl
       "I'm twirling!"
     end

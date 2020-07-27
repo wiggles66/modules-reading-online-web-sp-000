@@ -1,6 +1,6 @@
 module Dance
-  def twirl
-    "I'm twirling!"
+  def twirling
+    "I'm twirling"
   end
 
   def jump
@@ -12,6 +12,6 @@ module Dance
   end
 
   def take_a_bow
-    "Thank you, thank you. It was a pleasure to dance for you all."
-  end
-end
+            "Thank you, thank you. It was a pleasure to dance for you all"
+          end
+        end
